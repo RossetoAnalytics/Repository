@@ -7,6 +7,9 @@
  
 This dataset is from Kaggle, and this is the link: https://www.kaggle.com/code/uom190346a/customer-behavior-analysis/input
 
+[Link to repository](https://github.com/RossetoAnalytics/E-Commerce-Behavior-Analysis)
+
+
 # EPA-Probabilidade-Outliers
 
 Passo a passo de uma análise de distribuição de probabilidade, com identificação de Outlier usando regra empírica em distribuição. A regra empírica é fundamental para casos em que o Outlier é bem próximo de uma curva de distribuição normal, e oferece um padrão padronizado. Para distribuições não normais, além da identificação por Plots, se usa o IQR.
@@ -23,6 +26,8 @@ Passo a passo de uma análise de distribuição de probabilidade, com identifica
 * Melhores clientes
 
 **Dataset disponível no diretório**
+
+[Link to repository](https://github.com/RossetoAnalytics/EPA-Probabilidade-Outliers)
 
 # NeobankAnalysis
 Explore the realms of a globally renowned neo-bank, pioneering in eradicating hidden bank charges for cross-currency transactions.
@@ -42,3 +47,5 @@ Excel: To visualize and edit the retention matrix, as it provides control over e
 Power BI: To create visualizations and further source, clean, and transform data.
 
 https://neo-bank.com/
+
+[Link to repository](https://github.com/RossetoAnalytics/NeobankAnalysis)
