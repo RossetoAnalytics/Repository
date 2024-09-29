@@ -6,6 +6,13 @@
   
 - **2. [Ingestão de API no Databricks](https://github.com/RossetoAnalytics/API-Ingest-Databricks)**  
   Ingestão de uma API no Databricks e salvando o dataset como .parquet no DBFS em um diretório Bronze (non-prod). Veja aqui também a criação de um processo em ambiente de produção: [Prod.Azure.Databricks](https://github.com/RossetoAnalytics/Arq-Medalhao-AzureDatabricks)
+
+<details>
+  <summary>Diagrama</summary>
+
+  ![image](https://github.com/user-attachments/assets/861ec029-bd37-4d3c-9a70-311b0eee4821)
+
+</details>
   
 - **3. [Análise de comportamento de usuário de Banco Digital](https://github.com/RossetoAnalytics/NeobankAnalysis)**  
   Análise de dados de um neo-banco global, focada em retenção de usuários e engajamento. Utilizou ferramentas como SQL, Python, Excel e Power BI para limpeza, transformação e visualização dos dados.
