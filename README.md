@@ -25,7 +25,8 @@
  <details>
     <summary>Diagrama</summary>
   
-  ![image](https://github.com/user-attachments/assets/92c5b0d1-6e39-4dcd-b7f3-51215c4a3772)
+![image](https://github.com/user-attachments/assets/ae0b93d7-e2cb-4e90-a522-6a0ca0dba505)
+
 
  </details>
 
