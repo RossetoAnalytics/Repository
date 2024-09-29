@@ -24,7 +24,9 @@
 
   <details>
   <summary>Diagrama</summary>
+  
 ![image](https://github.com/user-attachments/assets/92c5b0d1-6e39-4dcd-b7f3-51215c4a3772)
+
 </details>
 
 ###  Análise/Ciência de Dados
