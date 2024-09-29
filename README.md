@@ -22,12 +22,12 @@
 - **3. [Análise de comportamento de usuário de Banco Digital](https://github.com/RossetoAnalytics/NeobankAnalysis)**  
   Análise de dados da Neo-Bank global, focada em retenção de usuários e engajamento. Utilizou ferramentas como SQL, Python, Excel e Power BI para limpeza, transformação e visualização dos dados.
 
-  <details>
+ <details>
     <summary>Diagrama</summary>
   
-![image](https://github.com/user-attachments/assets/92c5b0d1-6e39-4dcd-b7f3-51215c4a3772)
+  ![image](https://github.com/user-attachments/assets/92c5b0d1-6e39-4dcd-b7f3-51215c4a3772)
 
-</details>
+ </details>
 
 ###  Análise/Ciência de Dados
 - **1. [Análise de comportamento de usuário de E-commerce](https://github.com/RossetoAnalytics/E-Commerce-Behavior-Analysis)**  
