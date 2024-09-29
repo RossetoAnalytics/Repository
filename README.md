@@ -7,6 +7,9 @@
   <details>
   <summary>Diagrama</summary>
 
+  ![image](https://github.com/user-attachments/assets/711fa6c8-4c8a-4eec-bb1f-c4f13e556c79)
+
+
 </details>
   
 - **2. [Ingestão de API no Databricks](https://github.com/RossetoAnalytics/API-Ingest-Databricks)**  
