@@ -23,7 +23,7 @@
   Análise de dados da Neo-Bank global, focada em retenção de usuários e engajamento. Utilizou ferramentas como SQL, Python, Excel e Power BI para limpeza, transformação e visualização dos dados.
 
   <details>
-  <summary>Diagrama</summary>
+    <summary>Diagrama</summary>
   
 ![image](https://github.com/user-attachments/assets/92c5b0d1-6e39-4dcd-b7f3-51215c4a3772)
 
