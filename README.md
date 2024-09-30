@@ -40,4 +40,14 @@
 - **2. [Análise de Outliers](https://github.com/RossetoAnalytics/EPA-Probabilidade-Outliers)**  
   Análise de probabilidade com identificação de outliers em dados de qualidade do ar, utilizando a regra empírica e o IQR.
 
+- **3. [Churn Buster: Análise de Engajamento](https://github.com/RossetoAnalytics/NeobankAnalysis)**  
+  A missão deste projeto é revelar insights, fornecer recomendações de negócios inteligentes para reduzir as taxas de churn e iluminar caminhos para aumentar o envolvimento dos usuários. Utilizo ferramentas como SQL, Python, Excel e Power BI para limpeza, transformação e visualização dos dados.
+
+ <details>
+    <summary>Diagrama</summary>
+  
+![image](https://github.com/user-attachments/assets/ae0b93d7-e2cb-4e90-a522-6a0ca0dba505)
+
+
+ </details>
 
