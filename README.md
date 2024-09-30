@@ -22,8 +22,8 @@
 
 </details>
   
-- **3. [Análise de comportamento de usuário de Banco Digital](https://github.com/RossetoAnalytics/NeobankAnalysis)**  
-  Análise de dados da Neo-Bank global, focada em retenção de usuários e engajamento. Utilizou ferramentas como SQL, Python, Excel e Power BI para limpeza, transformação e visualização dos dados.
+- **3. [Churn Buster: Análise de Engajamento](https://github.com/RossetoAnalytics/NeobankAnalysis)**  
+  A missão deste projeto é revelar insights, fornecer recomendações de negócios inteligentes para reduzir as taxas de churn e iluminar caminhos para aumentar o envolvimento dos usuários. Utilizo ferramentas como SQL, Python, Excel e Power BI para limpeza, transformação e visualização dos dados.
 
  <details>
     <summary>Diagrama</summary>
