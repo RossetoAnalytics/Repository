@@ -9,9 +9,6 @@
 
   ![371883148-711fa6c8-4c8a-4eec-bb1f-c4f13e556c79](https://github.com/user-attachments/assets/5cfff45a-a71a-4c07-b1bd-6b8c07567424)
 
-
-  ![image](https://github.com/user-attachments/assets/861ec029-bd37-4d3c-9a70-311b0eee4821)
-
 </details>
   
 - **[Churn Buster: Análise de Engajamento](https://github.com/RossetoAnalytics/NeobankAnalysis)**  
