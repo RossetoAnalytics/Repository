@@ -10,6 +10,18 @@
   ![371883148-711fa6c8-4c8a-4eec-bb1f-c4f13e556c79](https://github.com/user-attachments/assets/5cfff45a-a71a-4c07-b1bd-6b8c07567424)
 
 </details>
+
+
+- **[Airflow-Cotacoes](https://github.com/RossetoAnalytics/airflow-cotacoes)**  
+  Este projeto foi desenvolvido para demonstrar a criação e implementação de uma Directed Acyclic Graph (DAG) utilizando Apache Airflow. O foco foi a ingestão e transformação de dados do Banco Central do Brasil relacionados à cotação de moedas, com o objetivo de automatizar o download e o processamento desses dados a partir de um arquivo CSV disponível em um endpoint público.
+
+<details>
+  <summary>DAG</summary>
+
+   ![dag_fin_cotacoes_bcb](https://github.com/user-attachments/assets/e3175878-cc25-4c3c-bed1-4738d52f8e43)
+
+</details>
+  
   
 - **[Churn Buster: Análise de Engajamento](https://github.com/RossetoAnalytics/NeobankAnalysis)**  
   A missão deste projeto é revelar insights, fornecer recomendações de negócios inteligentes para reduzir as taxas de churn e iluminar caminhos para aumentar o envolvimento dos usuários. Utilizo ferramentas como SQL, Python, Excel e Power BI para limpeza, transformação e visualização dos dados.
