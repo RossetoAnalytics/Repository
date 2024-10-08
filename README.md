@@ -9,6 +9,21 @@
 
   ![371883148-711fa6c8-4c8a-4eec-bb1f-c4f13e556c79](https://github.com/user-attachments/assets/5cfff45a-a71a-4c07-b1bd-6b8c07567424)
 
+
+</details>
+
+
+- **[DBT Data Lake Project](https://github.com/RossetoAnalytics/DBT-Data-Lake-Project)**  
+  Este projeto foi desenvolvido utilizando vários recursos do DBT-Core e configurações do PostgreSQL em um RDS da AWS. O DBeaver foi utilizado como sistema de gerenciamento local. O projeto gera tabelas usando a biblioteca Faker, seguindo uma arquitetura de Data Lake.
+
+<details>
+  <summary>DAG</summary>
+
+   ![Lineage on DBT Localhost](![dbt-marts-run-lineage](https://github.com/user-attachments/assets/c1ad890c-8a2f-40cb-a016-a9ba6863e591)
+
+</details>
+  
+
 </details>
 
 
