@@ -17,9 +17,10 @@
   Este projeto foi desenvolvido utilizando vários recursos do DBT-Core e configurações do PostgreSQL em um RDS da AWS. O DBeaver foi utilizado como sistema de gerenciamento local. O projeto gera tabelas usando a biblioteca Faker, seguindo uma arquitetura de Data Lake.
 
 <details>
-  <summary>DAG</summary>
+  <summary>Linaege on DBT-Core localhost catalog</summary>
 
-   ![Lineage on DBT Localhost](![dbt-marts-run-lineage](https://github.com/user-attachments/assets/c1ad890c-8a2f-40cb-a016-a9ba6863e591)
+ ![dbt-marts-run-lineage](https://github.com/user-attachments/assets/c1ad890c-8a2f-40cb-a016-a9ba6863e591)
+
 
 </details>
   
