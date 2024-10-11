@@ -28,7 +28,8 @@
   O Auto Loader é um recurso do Apache Spark que facilita a ingestão incremental de dados em tempo real. Ele permite a leitura automática de novos arquivos em um diretório monitorado, aplicando um esquema definido e gerenciando checkpoints para garantir a consistência dos dados.
 
 <details>
-
+  <summary>Checkpoints para ingestão incremental atômica</summary>
+  
 ![checkpoints_autoloader](https://github.com/user-attachments/assets/86dcdd98-70be-4114-be2b-79d946377e82)
 
 </details>
