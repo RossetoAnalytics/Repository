@@ -25,7 +25,7 @@
 </details>
 
 - **[Ingestao Incremental Streaming](https://github.com/RossetoAnalytics/Ingestao-Incremental-Streaming)**  
-  O Auto Loader é um recurso do Apache Spark que facilita a ingestão incremental de dados em tempo real. Ele permite a leitura automática de novos arquivos em um diretório monitorado, aplicando um esquema definido e gerenciando checkpoints para garantir a consistência dos dados.
+  O Auto Loader é um recurso do Apache Spark que facilita a ingestão incremental de dados em tempo real. Ele permite a leitura automática de novos arquivos em um diretório (sistema de arquivos, podendo conter diversos formatdos), aplicando um esquema definido e gerenciando checkpoints para garantir a consistência dos dados. Esses dados (arquivos .json nesse projeto) são então carregados em uma tabela em um banco de dados.
 
 <details>
   <summary>Checkpoints para ingestão incremental atômica</summary>
